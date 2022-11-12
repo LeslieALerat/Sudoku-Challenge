@@ -1,0 +1,11 @@
+﻿body {
+    background: url(yellow-stars-background-play.png);
+    background-size: cover;
+}
+
+.card {
+    margin: auto;
+    align-items: center;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: var(--border-radius);
+}

@@ -1,0 +1,29 @@
+{
+  "name": "sudoku-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeslieALerat/Sudoku-Challenge.git"
+  },
+  "author": "Leslie Lerat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeslieALerat/Sudoku-Challenge/issues"
+  },
+  "homepage": "https://github.com/LeslieALerat/Sudoku-Challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "uglify-js": "^3.17.4"
+  }
+  ,"uglify": "uglifyjs index.js --output script.js"
+
+}
+
